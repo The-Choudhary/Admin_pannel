@@ -1,0 +1,28 @@
+.border_company{
+    border: 1px solid;
+    width: 46%;
+    text-align: center;
+    margin: auto;
+    margin-top: 71px;
+
+}
+.heading_company{
+    height: 19px;
+    font-size: 24px;
+}
+.add{
+
+    width: 336px;
+    padding: 7px;
+    font-size: 20px;
+    height: 29px;
+}
+.file{
+
+    font-size: 14px;
+
+}
+.adc2{
+
+    margin-top: 53px;
+}

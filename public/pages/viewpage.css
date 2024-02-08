@@ -1,0 +1,51 @@
+
+/* head page */
+.h-page{
+    display: flex;
+    flex-wrap: wrap;
+    background: #f1f1ef;
+    height: 67px;    
+    border: 1px solid #d6d8de;
+}
+/* data page */
+.d-page{
+
+    display: flex;
+    flex-wrap: wrap;
+    background: #f1f1ef;
+    height: fit-content;
+    border: 1px solid;
+
+}
+/*  */
+.th-page{
+    margin-left: 72px;
+    font-size: 21px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    color: #979a9b;
+    border: none;
+    
+    width: 127px;
+
+
+}
+/*  */
+.td-page{    
+    margin-left: 88px;
+    font-size: 17px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    color: #979a9b;
+    border: none;
+    width: 109px;
+
+}
+
+/* for td body */
+.q-page-box{
+    height: fit-content;
+    width: 88%;
+    margin: auto;
+   
+}

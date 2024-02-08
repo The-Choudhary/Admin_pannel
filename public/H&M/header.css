@@ -1,0 +1,58 @@
+/* fa-fa color */
+.bar{    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+
+/* header-top */
+
+.fold{display: flex;
+    flex-wrap: wrap;}
+
+/* header top color */
+.bg-color{
+    width: 100%;
+transition: .5s;
+    height: 53px;
+    display: flex;
+}
+
+/* logo  */
+.bar1{
+    width: 207px;
+    font-size: 40px;   
+    color: white;
+    }
+
+
+    /* search bar */
+    .s-bar{    height: 26px;
+        width: 221px;
+        margin-left: 23px;
+        border-radius: 23px;
+        margin-top: 10px;
+    }
+
+    /* fa-fa margin */
+    .span{
+
+    margin-left: 4px;
+
+    }
+
+    /* fafa down icon*/
+.fafa-iconn{
+
+    margin-left: 12px;
+
+}
+    /* fafa right icon*/
+    .fafa-iconr{
+
+    color: white;
+    padding-right: 12px;
+    
+    }

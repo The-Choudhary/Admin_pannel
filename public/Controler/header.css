@@ -1,0 +1,21 @@
+.border_header{
+    border: 1px solid;
+    width: 46%;
+    text-align: center;
+    margin-top: 71px;
+    margin-left: 35px;
+    padding-bottom: 18px;
+
+}
+.heading_header{
+    height: 19px;
+    font-size: 24px;
+}
+.add{
+
+    width: 336px;
+    padding: 7px;
+    font-size: 20px;
+    height: 29px;
+}
+

@@ -1,0 +1,28 @@
+.border_catagory{
+    border: 1px solid;
+    width: 46%;
+    text-align: center;
+    margin: auto;
+    margin-top: 71px;
+
+}
+.heading_catagory{
+    height: 19px;
+    font-size: 24px;
+}
+.add_catagory{
+
+    width: 336px;
+    padding: 7px;
+    font-size: 20px;
+    height: 29px;
+}
+.file_catagory{
+
+    font-size: 14px;
+
+}
+.adc2_catagory{
+
+    margin-top: 53px;
+}

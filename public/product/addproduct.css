@@ -1,0 +1,29 @@
+.border_product{
+    border: 1px solid;
+    width: 46%;
+    margin: auto;
+    margin-top: 71px;
+    padding-bottom: 18px;
+
+
+}
+.heading_product{
+    height: 19px;
+    font-size: 24px;
+}
+.add_product{
+
+    width: 336px;
+    padding: 7px;
+    font-size: 20px;
+    height: 29px;
+}
+
+.adc2{
+
+    margin-top: 53px;
+}
+.desc{
+
+    height: 196px;
+}

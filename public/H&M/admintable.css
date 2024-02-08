@@ -1,0 +1,72 @@
+
+/* data table */
+.h-table{
+    display: flex;
+    flex-wrap: wrap;
+    background: #f1f1ef;
+    height: 67px;    
+    border: 1px solid #d6d8de;
+
+}
+/* data table */
+.d-table{
+
+    display: flex;
+    flex-wrap: wrap;
+    background: #f1f1ef;
+    height: fit-content;
+    border: 1px solid;
+
+}
+/*  */
+.th-table{
+    margin-left: 72px;
+    font-size: 21px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    color: #979a9b;
+    border: none;
+    
+    width: 102px;
+
+
+}
+/*  */
+.td-table{    
+    margin-left: 88px;
+    font-size: 17px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    color: #979a9b;
+    border: none;
+    width: 82px;
+
+}
+/* for td body */
+.q-table-box{
+    height: fit-content;
+   
+}
+.m-mx{
+    margin-left: 91px;
+}
+.m-mn{
+
+    margin-left: 66px;
+}
+/* align for th */
+.wid-mn{
+
+    margin-left: 51px;
+}
+.wid-mx{
+    margin-left: 92px;
+
+}
+/*  */
+
+
+
+.action{
+    margin-left: 118px;
+}

@@ -1,0 +1,97 @@
+
+
+
+
+.login{
+    margin-top: 154px;
+    
+    background: #191C24;
+    
+    width: 384px;
+
+    height: 357px;
+    padding: 2px;
+
+    text-align: center;}
+    .form{
+        margin-left: 546px;}
+    .h1x{    color: white;}
+.login1{
+    padding: 9px;
+    width: 223px;
+    height: 10px;
+    margin-top: 23px;}
+    .login2{
+        width: 130px;
+        height: 34px;
+        padding: 1px;
+    
+        background: red;
+        margin-top: 23px;}
+
+
+
+
+
+
+
+
+  .f-base  {    text-align: end;
+    transition: .5s;
+    width: 77%;
+    }
+
+.g-base{
+    margin-left: 23px;
+    margin-top: 7px;}
+
+.bar2{
+    background: black;
+    color: gainsboro;
+    width: 0px;
+overflow: hidden;
+   position: absolute;
+transition: 0.5s;}
+.sidebar{ 
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+    border-radius: 40px;
+   }
+.pl{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 24px;
+}
+.span1{
+    margin-left: 20px;
+}
+
+
+.pl1{
+    margin-left: 56px;
+    color: gray;
+    margin-top: 5px;
+}
+.table{
+    width: 98%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid;
+    padding-left: 18px;}
+td{
+    border: 2px solid;
+    padding-left: 18px;}
+
+.t1{margin-top: 23px;}
+.tbox{    border: 3px solid gray;
+    height: fit-content;
+    padding: 12px;
+    width: 72%;}
+.tablemk{
+    width: 98%;
+    border-collapse: collapse;}

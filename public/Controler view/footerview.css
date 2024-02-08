@@ -1,0 +1,52 @@
+
+/* head footerview */
+.h-footerview{
+    display: flex;
+    flex-wrap: wrap;
+    background: #f1f1ef;
+    height: 67px;    
+    border: 1px solid #d6d8de;
+}
+/* data footerview */
+.d-footerview{
+
+    display: flex;
+    flex-wrap: wrap;
+    background: #f1f1ef;
+    height: fit-content;
+    border: 1px solid;
+
+}
+/*  */
+.th-footerview{
+    margin-left: 72px;
+    font-size: 21px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    color: #979a9b;
+    border: none;
+    width: 133px;
+
+
+}
+/*  */
+.td-footerview{    
+    margin-left: 88px;
+    font-size: 17px;
+    margin-top: 16px;
+    font-family: sans-serif;
+    color: #979a9b;
+    border: none;
+    width: 115px;
+
+    overflow: scroll;
+
+}
+
+/* for td body */
+.q-footerview-box{
+    height: fit-content;
+    width: 100%;
+    margin: auto;
+   
+}
